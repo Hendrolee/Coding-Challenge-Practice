@@ -1,3 +1,5 @@
 # README
 
 ## Getting Started
+
+### Considerations
